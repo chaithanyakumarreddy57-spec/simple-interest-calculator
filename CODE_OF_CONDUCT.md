@@ -4,21 +4,19 @@
 We pledge to make participation respectful and harassment-free.
 
 ## Our Standards
-- Respectful communication
-- Constructive feedback
-- Inclusive behavior
+Be respectful, inclusive, and constructive.
 
 ## Enforcement Responsibilities
-Maintainers enforce rules.
+Project maintainers are responsible for enforcing standards.
 
 ## Scope
-Applies to all project spaces.
+Applies to all contributors and project spaces.
 
 ## Enforcement
-Violations will be addressed.
+Violations may result in warnings or bans.
 
 ## Enforcement Guidelines
-Warnings or actions may be taken.
+Maintainers will follow guidelines to determine consequences for unacceptable behavior.
 
 ## Attribution
-Adapted from Contributor Covenant.
+This Code of Conduct is adapted from the Contributor Covenant.
