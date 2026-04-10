@@ -5,28 +5,40 @@ http://www.apache.org/licenses/
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
 1. Definitions.
+
 "License" shall mean the terms and conditions for use, reproduction, and distribution.
 
+"Licensor" shall mean the copyright owner.
+
+"Legal Entity" shall mean the union of the acting entity and all other entities that control it.
+
 2. Grant of Copyright License.
-Each contributor grants you a perpetual, worldwide, non-exclusive license.
+
+Each contributor grants you a perpetual, worldwide, non-exclusive, no-charge, royalty-free copyright license to use, reproduce, and distribute the work.
 
 3. Grant of Patent License.
-Each contributor grants a patent license.
+
+Each contributor grants you a patent license to make, use, sell, and distribute the work.
 
 4. Redistribution.
-You may reproduce and distribute copies.
+
+You may reproduce and distribute copies of the work provided that:
+- You give recipients a copy of this License
+- You state any changes made
+- You retain copyright notices
 
 5. Submission of Contributions.
-Unless explicitly stated otherwise.
+
+Any contribution submitted shall be under the terms of this License.
 
 6. Trademarks.
+
 This License does not grant permission to use trademarks.
 
 7. Disclaimer of Warranty.
-Software is provided "AS IS".
+
+The software is provided "AS IS", without warranties of any kind.
 
 8. Limitation of Liability.
-No contributor shall be liable.
 
-9. Accepting Warranty or Additional Liability.
-You may offer support.
+Contributors are not liable for any damages arising from use of the software.
